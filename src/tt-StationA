@@ -1,0 +1,15 @@
+StationA,115.8800,-31.5900
+06:01,busA_B,stopA,06:35,TerminalB
+07:04,busA_B,stopA,07:40,TerminalB
+08:10,busA_B,stopA,08:44,TerminalB
+09:12,busA_B,stopA,09:47,TerminalB
+10:15,busA_B,stopA,10:49,TerminalB
+11:17,busA_B,stopA,11:51,TerminalB
+12:23,busA_B,stopA,12:57,TerminalB
+13:29,busA_B,stopA,14:04,TerminalB
+14:32,busA_B,stopA,15:06,TerminalB
+15:34,busA_B,stopA,16:10,TerminalB
+16:40,busA_B,stopA,17:14,TerminalB
+17:43,busA_B,stopA,18:17,TerminalB
+18:49,busA_B,stopA,19:25,TerminalB
+19:57,busA_B,stopA,20:32,TerminalB
